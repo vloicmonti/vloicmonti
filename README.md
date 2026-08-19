@@ -308,8 +308,20 @@ French (native) · English (B2/C1 — technical documentation, international ban
 </table>
 </div>
 
-## Contact
+---
 
-Let's build something with data.
+<div align="center">
 
-📧 [loicmonti318@gmail.com](mailto:loicmonti318@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/)
+<sub>SYSTEM STATUS</sub>
+
+<img src="assets/status-dot.svg" width="10" height="10" alt="" /> **ONLINE**
+
+<br/><br/>
+
+*"Building data-driven solutions from data to intelligence."*
+
+<br/>
+
+[LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/) · [Email](mailto:loicmonti318@gmail.com)
+
+</div>
