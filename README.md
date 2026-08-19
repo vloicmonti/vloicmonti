@@ -18,6 +18,28 @@
 
 <br/>
 
+## SYSTEM PROFILE
+
+```
+$ system --profile
+
+CORE DOMAINS
+  → Data Analytics
+  → Data Engineering
+  → Machine Learning
+  → Business Intelligence
+  → Artificial Intelligence
+
+PRIMARY STACK
+  [PRIMARY]        Python · SQL · Power BI · Streamlit
+  [WORKING WITH]   BigQuery · React
+  [EXPERIENCE]     Databricks · Snowflake · Azure Data Factory
+
+STATUS: open_to_opportunities  (2026-2027 apprenticeship)
+```
+
+<br/>
+
 ## About Me
 
 Turning data into strategic decisions.
