@@ -302,8 +302,8 @@ French (native) · English (B2/C1 — technical documentation, international ban
 <div align="center">
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=vloicmonti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8" alt="GitHub Stats" height="165"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vloicmonti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" height="165"/></td>
+<td><img src="assets/github-stats.svg" alt="GitHub Stats" height="165"/></td>
+<td><img src="assets/top-langs.svg" alt="Top Languages" height="165"/></td>
 </tr>
 </table>
 </div>
