@@ -38,6 +38,11 @@ PRIMARY STACK
 STATUS: open_to_opportunities  (2026-2027 apprenticeship)
 ```
 
+<div align="center">
+  <br/>
+  <img src="assets/data-flow.svg" width="100%" alt="Data → Data Engineering → Machine Learning / AI → Insights → Business Decision" />
+</div>
+
 <br/>
 
 ## About Me
