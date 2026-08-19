@@ -97,47 +97,30 @@ End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
 </tr>
 </table>
 
-## Tech Stack
+## TECHNICAL FOCUS
 
-<table>
-<tr><td><b>Languages</b></td><td>
+<sub>`01 /`</sub> **DATA ANALYTICS**
+Python · SQL · Pandas · NumPy · Data Visualization
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-</td></tr>
-<tr><td><b>Data & BI</b></td><td>
+<sub>`02 /`</sub> **DATA ENGINEERING**
+ETL Pipelines · MySQL · PostgreSQL · BigQuery · Docker · Git
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+---
 
-</td></tr>
-<tr><td><b>Machine Learning</b></td><td>
+<sub>`03 /`</sub> **AI / MACHINE LEARNING**
+Scikit-learn · TensorFlow · Keras · XGBoost · NLP · MLflow
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0B6E4F?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square&logoColor=white)
+---
 
-</td></tr>
-<tr><td><b>Data Engineering</b></td><td>
+<sub>`04 /`</sub> **BUSINESS INTELLIGENCE**
+Power BI (DAX, Power Query) · Streamlit · Plotly
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
-</td></tr>
-<tr><td><b>Development</b></td><td>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td></tr>
-</table>
+<sub>`05 /`</sub> **APPLICATION DEVELOPMENT**
+React · Node.js
 
 ## Engineering Workflow
 
