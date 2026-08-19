@@ -13,7 +13,6 @@
 
   <a href="https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:loicmonti318@gmail.com"><img src="https://img.shields.io/badge/Email-loicmonti318%40gmail.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://vloicmonti.dev"><img src="https://img.shields.io/badge/Portfolio-vloicmonti.dev-0D1321?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>
@@ -166,4 +165,4 @@ French (native) · English (B2/C1 — technical documentation, international ban
 
 Let's build something with data.
 
-📧 [loicmonti318@gmail.com](mailto:loicmonti318@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/) · 🌐 [vloicmonti.dev](https://vloicmonti.dev)
+📧 [loicmonti318@gmail.com](mailto:loicmonti318@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/)
