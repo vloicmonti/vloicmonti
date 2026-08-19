@@ -1,4 +1,4 @@
-<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#05070d"/>
@@ -20,18 +20,22 @@
     </radialGradient>
   </defs>
 
-  <rect width="1000" height="220" fill="url(#bg)"/>
-  <rect width="1000" height="220" fill="url(#grid)"/>
-  <rect width="1000" height="220" fill="url(#fade)"/>
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <rect width="1000" height="240" fill="url(#grid)"/>
+  <rect width="1000" height="240" fill="url(#fade)"/>
 
-  <text x="60" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#f5f7fa">
+  <text x="60" y="46" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#64748b">
+    TRANSFORMING DATA INTO INSIGHTS. <tspan fill="#60a5fa">POWERING SMARTER DECISIONS.</tspan>
+  </text>
+
+  <text x="60" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" fill="#f5f7fa">
     Vincent Lo&#239;c Monti
   </text>
-  <text x="60" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#94a3b8">
-    Data &amp; AI &#8212; Financial Risk Analytics
+  <text x="60" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="1" fill="#94a3b8">
+    DATA ANALYST &#8201;|&#8201; AI &amp; BIG DATA ENGINEER
   </text>
 
-  <rect x="60" y="160" width="880" height="2" fill="url(#accentLine)"/>
+  <rect x="60" y="180" width="880" height="2" fill="url(#accentLine)"/>
 
   <circle cx="930" cy="60" r="3" fill="#60a5fa"/>
   <circle cx="950" cy="90" r="2" fill="#3b82f6" fill-opacity="0.6"/>

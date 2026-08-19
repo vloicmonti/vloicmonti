@@ -1,13 +1,15 @@
 <div align="center">
+  <img src="assets/photo.png" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Vincent Loïc Monti" /><br/><br/>
+
   <img src="assets/banner.svg" width="100%" alt="Vincent Loïc Monti" />
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%C2%B7+BI+%C2%B7+Machine+Learning+%26+Risk+Analytics;Building+ETL+pipelines%2C+ML+models+%26+Power+BI+dashboards;Open+to+Data+%2F+BI+%2F+Risk+apprenticeship+2026%E2%80%932027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+Big+Data+Engineer;Turning+data+into+business+insights+with+Python%2C+SQL+%26+Power+BI;Master%27s+Student+%40+ESTIAM+Paris;Open+to+a+2026%E2%80%932027+apprenticeship" alt="Typing SVG" />
 
   <br/>
 
-  <sub>📍 Île-de-France, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
+  <sub>📍 Paris, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
 
   <br/><br/>
 
@@ -19,16 +21,30 @@
 
 ## About Me
 
-Data Analyst with real operational experience in international banking —
-built ETL pipelines, ML models (Gradient Boosting, LSTM, Isolation Forest)
-and Power BI dashboards during a Data Analyst internship at **BEAC
-(Banque des États de l'Afrique Centrale)**, a central bank serving 6
-CEMAC countries. Comfortable across the full loop: raw financial data →
-pipeline → model → dashboard → decision.
+Turning data into strategic decisions.
 
-Currently in my second year of a Master's in AI & Big Data at ESTIAM
-Paris, looking for a **Data Analyst / BI / Risk Data apprenticeship for
-2026–2027**.
+I'm passionate about data, artificial intelligence and business
+intelligence — I build solutions that turn complex data into reliable,
+actionable, value-creating information.
+
+I'm currently a Master's student in AI & Big Data at ESTIAM Paris,
+working on projects that span the full data lifecycle: collection,
+preparation, analysis, visualization and modeling.
+
+During my time at the **Banque des États de l'Afrique Centrale (BEAC)**,
+I worked on real financial data and contributed to high-impact projects.
+I designed **SIDADR**, an intelligent ETL pipeline processing 500,000+
+records, helping reduce errors in financial reports for the six CEMAC
+member states by 35%. I also developed LSTM predictive models for
+inflation forecasting (82% accuracy) and built several Power BI
+dashboards to support macroeconomic indicator tracking.
+
+I'm especially drawn to projects that combine business understanding,
+data analysis and technological innovation to help organizations through
+their digital transformation.
+
+📩 Currently looking for a **2026–2027 apprenticeship** in Data
+Analytics, Business Intelligence, Data Engineering or AI.
 
 ## Core Expertise
 
@@ -74,13 +90,18 @@ End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
 <tr><td><b>Machine Learning</b></td><td>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0B6E4F?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square&logoColor=white)
 
 </td></tr>
 <tr><td><b>Data Engineering</b></td><td>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td></tr>
