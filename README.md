@@ -139,20 +139,96 @@ End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
 </td></tr>
 </table>
 
-## 🚀 Featured Projects
+## FEATURED SYSTEMS
 
-| Project | Business Problem → Result | Stack | Status |
-|---|---|---|---|
-| [**Credit Risk Scoring Platform**](https://github.com/vloicmonti/credit-risk-scoring-platform) | ETL on 150k client records → Gradient Boosting (SMOTE), **AUC-ROC 0.84**, real-time credit score 300–850, deployed on Streamlit Cloud | Python, scikit-learn, Streamlit, Plotly, SQLite | Completed |
-| [**SIDADR — Financial Anomaly Detection**](https://github.com/vloicmonti/sidadr-financial-anomaly-detection) | Automated ETL pipeline on 500k+ multi-source financial records across 6 CEMAC countries → **-35% data error rate** | Python, SQL, MySQL | Completed |
-| [**Fraud Detection & AML Compliance Platform**](https://github.com/vloicmonti/fraud-detection-aml-compliance) | Real-time financial fraud detection (Isolation Forest) with 5 regulatory compliance modules (AML, CFT, TRACFIN, KYC) | Python, Isolation Forest, Streamlit, Plotly, SQLite | Completed |
-| [**Inflation Forecasting (LSTM)**](https://github.com/vloicmonti/inflation-forecasting-lstm) | Time series forecasting on real BEAC macroeconomic data (LSTM vs. linear regression) → **82% test accuracy**, executive Power BI report | Python, LSTM, Power BI, Jupyter | Completed |
-| [**Macroeconomic Dashboard**](https://github.com/vloicmonti/macroeconomic-dashboard) | 5 interactive Power BI dashboards tracking regional macroeconomic indicators → adopted by 3 business units as their decision-making reference | Power BI, DAX, Power Query | Completed |
-| [**Video Retention Analytics**](https://github.com/vloicmonti/video-retention-analytics) | Predicts audience drop-off from video engagement logs — built at the ESTIAM Pôle 3 Hackathon | Python | `TODO` confirm status |
-| [**AfroEat**](https://github.com/vloicmonti/afroeat-platform) | Food ordering platform for Cameroonian cuisine | React, Node.js, Vite | `TODO` confirm status |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*`auditflow-financial-intelligence` is on hold — no README yet, add it
-back to this table once details are available.*
+![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+
+**Credit Risk Scoring Platform**
+
+ETL on 150k client records → Gradient Boosting (SMOTE) → **AUC-ROC 0.84**, real-time 300–850 score, deployed on Streamlit Cloud.
+
+`Python` `scikit-learn` `Streamlit` `SQLite`
+
+[GitHub →](https://github.com/vloicmonti/credit-risk-scoring-platform)
+
+</td>
+<td width="50%" valign="top">
+
+![Data Engineering](https://img.shields.io/badge/DATA_ENGINEERING-22D3EE?style=flat-square)
+
+**SIDADR — Financial Anomaly Detection**
+
+Automated ETL pipeline on 500k+ multi-source records across 6 CEMAC countries → **-35% data error rate**.
+
+`Python` `SQL` `MySQL`
+
+[GitHub →](https://github.com/vloicmonti/sidadr-financial-anomaly-detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+
+**Fraud Detection & AML Compliance**
+
+Real-time transaction scoring (Isolation Forest) with 5 regulatory modules — AML, CFT, TRACFIN, KYC.
+
+`Python` `Isolation Forest` `Streamlit` `Plotly`
+
+[GitHub →](https://github.com/vloicmonti/fraud-detection-aml-compliance)
+
+</td>
+<td width="50%" valign="top">
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-3B82F6?style=flat-square)
+
+**Inflation Forecasting (LSTM)**
+
+LSTM vs. linear regression on real BEAC macroeconomic time series → **82% test accuracy**, executive Power BI report.
+
+`Python` `LSTM` `Power BI`
+
+[GitHub →](https://github.com/vloicmonti/inflation-forecasting-lstm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+![BI](https://img.shields.io/badge/BI-6366F1?style=flat-square)
+
+**Macroeconomic Dashboard**
+
+5 interactive Power BI dashboards → **adopted by 3 business units** as their decision-making reference.
+
+`Power BI` `DAX` `Power Query`
+
+[GitHub →](https://github.com/vloicmonti/macroeconomic-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+![Data Science](https://img.shields.io/badge/DATA_SCIENCE-14B8A6?style=flat-square)
+
+**Video Retention Analytics**
+
+Predicts audience drop-off from video engagement logs — built at the ESTIAM Pôle 3 Hackathon.
+
+`Python`
+
+[GitHub →](https://github.com/vloicmonti/video-retention-analytics)
+
+</td>
+</tr>
+</table>
+
+<sub>Also on GitHub: `afroeat-platform` (web) · `auditflow-financial-intelligence` (on hold) — see [full list](https://github.com/vloicmonti?tab=repositories).</sub>
 
 ## Professional Experience
 
@@ -161,7 +237,7 @@ back to this table once details are available.*
 
 Central bank serving 6 CEMAC member countries. Delivered 4 production
 data/ML solutions covering ETL, risk scoring, fraud detection and
-forecasting — see Featured Projects above.
+forecasting — see Featured Systems above.
 
 - Built and industrialized SIDADR, an automated ETL pipeline for anomaly
   and duplicate detection across 500k+ regional financial records —
