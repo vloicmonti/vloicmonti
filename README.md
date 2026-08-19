@@ -18,6 +18,18 @@
 
 <br/>
 
+## RECRUITER SNAPSHOT
+
+<table>
+<tr><td width="160"><sub>NAME</sub></td><td>Vincent Loïc Monti</td></tr>
+<tr><td><sub>POSITION</sub></td><td>AI &amp; Data Engineer</td></tr>
+<tr><td><sub>EDUCATION</sub></td><td>M2 — Intelligence Artificielle &amp; Big Data, ESTIAM Paris</td></tr>
+<tr><td><sub>LOCATION</sub></td><td>Paris, France</td></tr>
+<tr><td><sub>EXPERIENCE</sub></td><td>BEAC — Banque des États de l'Afrique Centrale</td></tr>
+<tr><td valign="top"><sub>FOCUS</sub></td><td>Data Analytics · Data Engineering · Machine Learning · Business Intelligence · Artificial Intelligence</td></tr>
+<tr><td><sub>CURRENT GOAL</sub></td><td>Alternance / Data &amp; AI opportunity — 2026–2027</td></tr>
+</table>
+
 ## SYSTEM PROFILE
 
 ```
@@ -231,6 +243,28 @@ Predicts audience drop-off from video engagement logs — built at the ESTIAM P�
 </table>
 
 <sub>Also on GitHub: `afroeat-platform` (web) · `auditflow-financial-intelligence` (on hold) — see [full list](https://github.com/vloicmonti?tab=repositories).</sub>
+
+## ARCHITECTURE LAB
+
+How three of the systems above are actually built — real stages, real stack, nothing invented.
+
+**CREDIT RISK SCORING**
+```
+DATA → INGESTION → PREPROCESSING → FEATURE ENGINEERING → ML MODEL → RISK SCORING → STREAMLIT APPLICATION
+```
+`Python` `Pandas` `scikit-learn (Gradient Boosting)` `SMOTE` `Streamlit` `SQLite`
+
+**SIDADR**
+```
+MULTI-SOURCE DATA → INGESTION → SCHEMA STANDARDIZATION → DUPLICATE DETECTION → ANOMALY DETECTION → VALIDATED DATASET
+```
+`Python` `SQL` `MySQL`
+
+**FRAUD DETECTION & AML**
+```
+TRANSACTION DATA → PREPROCESSING → ANOMALY SCORING (ISOLATION FOREST) → COMPLIANCE MODULES (AML · CFT · TRACFIN · KYC) → DASHBOARD
+```
+`Python` `Isolation Forest` `Streamlit` `Plotly` `SQLite`
 
 ## Professional Experience
 
