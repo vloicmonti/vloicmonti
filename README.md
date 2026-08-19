@@ -300,13 +300,10 @@ French (native) · English (B2/C1 — technical documentation, international ban
 ## GitHub Activity
 
 <div align="center">
-<table>
-<tr>
-<td><img src="assets/github-stats.svg" alt="GitHub Stats" height="165"/></td>
-<td><img src="assets/top-langs.svg" alt="Top Languages" height="165"/></td>
-</tr>
-</table>
+  <img src="assets/github-stats.svg" alt="GitHub Stats" height="165"/>
 </div>
+
+<sub>Top Languages card will appear here once the repos contain real code — currently README-only.</sub>
 
 ---
 
