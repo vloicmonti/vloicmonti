@@ -251,30 +251,52 @@ Predicts audience drop-off from video engagement logs — built at the ESTIAM P�
 
 ## Professional Experience
 
-**Data Analyst (Internship) — BEAC, Banque des États de l'Afrique Centrale**
-*Service CNEF · Yaoundé, Cameroon · Jun–Sep 2025*
+```
+2025
+ │
+ └── BEAC — Banque des États de l'Afrique Centrale
+       Data · Finance · Technology
+       Jun – Sep 2025 · Yaoundé, Cameroon
+```
 
-Central bank serving 6 CEMAC member countries. Delivered 4 production
-data/ML solutions covering ETL, risk scoring, fraud detection and
-forecasting — see Featured Systems above.
+<table>
+<tr><td width="180"><b>ORGANIZATION</b></td><td>BEAC — Banque des États de l'Afrique Centrale, central bank serving 6 CEMAC member countries</td></tr>
+<tr><td><b>ROLE</b></td><td>Data Analyst (Internship), Service CNEF</td></tr>
+<tr><td><b>DOMAIN</b></td><td>Data · Finance · Technology</td></tr>
+<tr><td valign="top"><b>MISSIONS</b></td><td>
 
-- Built and industrialized SIDADR, an automated ETL pipeline for anomaly
-  and duplicate detection across 500k+ regional financial records —
-  reduced data error rate by 35% and secured decision-quality data for
-  6 member countries.
-- Designed and deployed 5 interactive Power BI dashboards (advanced DAX,
-  Power Query, data modeling) — adopted by 3 business units as their
-  single reference for strategic decision-making.
-- Developed LSTM and linear regression forecasting models on real
-  economic time series — 28% precision improvement over baseline,
-  reporting delivered to BEAC governors.
-- Automated cleaning, transformation and integration of heterogeneous
-  macroeconomic data (missing values, outliers, standardization) — Git
-  versioned, reproducible end-to-end.
+- Built and industrialized SIDADR, an automated ETL pipeline for anomaly and duplicate detection across 500k+ regional financial records
+- Designed and deployed 5 interactive Power BI dashboards (advanced DAX, Power Query, data modeling)
+- Developed LSTM and linear regression forecasting models on real economic time series
+- Built a credit scoring pipeline (Gradient Boosting + SMOTE) and a real-time fraud detection platform (Isolation Forest) covering AML, CFT, TRACFIN and KYC checks
+- Automated the cleaning, transformation and integration of heterogeneous macroeconomic data — Git-versioned, reproducible end-to-end
 
-*Environment: Python (Pandas, NumPy, Scikit-learn, LSTM), SQL, MySQL,
-PostgreSQL, Power BI (DAX, Power Query), ETL, Git, Jupyter Notebook,
-Docker.*
+</td></tr>
+<tr><td valign="top"><b>PROBLEMS SOLVED</b></td><td>
+
+- Fragmented, multi-source financial data across 6 countries undermining data quality and trust
+- No single reference for macroeconomic indicators across business units
+- Inflation forecasting relying on simple baseline methods
+- Credit risk and fraud exposure without automated scoring or detection
+
+</td></tr>
+<tr><td valign="top"><b>DELIVERABLES</b></td><td>
+
+- **SIDADR** — -35% data error rate, decision-quality data for 6 member countries
+- **5 Power BI dashboards** — adopted by 3 business units as their decision-making reference
+- **Inflation forecasting model** — 82% test accuracy, reporting delivered to BEAC governors
+- **Credit Risk Scoring Platform** — AUC-ROC 0.84, deployed on Streamlit Cloud
+- **Fraud Detection & AML Compliance Platform** — deployed with integrated database
+
+*(full detail on each — see [Engineering Workflow](#engineering-workflow) and [Featured Systems](#featured-systems) above)*
+
+</td></tr>
+<tr><td><b>TECHNOLOGIES</b></td><td>
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `LSTM` `SQL` `MySQL` `PostgreSQL` `Power BI` `DAX` `Power Query` `ETL` `Git` `Jupyter Notebook` `Docker`
+
+</td></tr>
+</table>
 
 ## Education
 
