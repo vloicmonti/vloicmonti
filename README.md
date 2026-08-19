@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Vincent Loïc Monti" />
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+Big+Data+Engineer;Turning+data+into+business+insights+with+Python%2C+SQL+%26+Power+BI;Master%27s+Student+%40+ESTIAM+Paris;Open+to+a+2026%E2%80%932027+apprenticeship" alt="Typing SVG" />
+  <img src="assets/hero.svg" width="100%" alt="Vincent Loïc Monti — AI & Data Engineer" />
 
   <br/>
 
-  <sub>📍 Paris, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=8B95A7&center=true&vCenter=true&width=760&lines=Turning+data+into+business+insights+with+Python%2C+SQL+%26+Power+BI;Master%27s+Student+%40+ESTIAM+Paris;Open+to+a+2026%E2%80%932027+apprenticeship" alt="Typing SVG" />
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:loicmonti318@gmail.com"><img src="https://img.shields.io/badge/Email-loicmonti318%40gmail.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <sub>🟢 Open to opportunities &nbsp;·&nbsp; 📍 Paris, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
+
+  <br/><br/>
+
+  <a href="https://github.com/vloicmonti?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-3B82F6?style=for-the-badge&logoColor=white" alt="View Projects" /></a>
+  <a href="https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/"><img src="https://img.shields.io/badge/LINKEDIN-0D131D?style=for-the-badge&logoColor=60A5FA" alt="LinkedIn" /></a>
+  <a href="mailto:loicmonti318@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D131D?style=for-the-badge&logoColor=60A5FA" alt="Email" /></a>
 </div>
 
 <br/>
