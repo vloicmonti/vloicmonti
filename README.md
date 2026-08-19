@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="assets/photo.png" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Vincent Loïc Monti" /><br/><br/>
-
   <img src="assets/banner.svg" width="100%" alt="Vincent Loïc Monti" />
 
   <br/><br/>
@@ -82,7 +80,7 @@ End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
 </td></tr>
 <tr><td><b>Data & BI</b></td><td>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
