@@ -7,7 +7,7 @@
 
   <br/><br/>
 
-  <sub>🟢 Open to opportunities &nbsp;·&nbsp; 📍 Paris, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
+  <sub>🟢 Open to opportunities &nbsp;·&nbsp; 📍 Paris, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris</sub>
 
   <br/><br/>
 
