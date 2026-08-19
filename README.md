@@ -1,20 +1,22 @@
 <div align="center">
+  <img src="assets/banner.svg" width="100%" alt="Vincent Loïc Monti" />
 
-# Hi, I'm Vincent Loïc Monti 👋
+  <br/><br/>
 
-### Data Analyst · Business Intelligence · Machine Learning & Risk Analytics
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=94A3B8&center=true&vCenter=true&width=650&lines=Data+Analyst+%C2%B7+BI+%C2%B7+Machine+Learning+%26+Risk+Analytics;Building+ETL+pipelines%2C+ML+models+%26+Power+BI+dashboards;Open+to+Data+%2F+BI+%2F+Risk+apprenticeship+2026%E2%80%932027" alt="Typing SVG" />
 
-Building ETL pipelines, ML models and Power BI dashboards for banking &
-financial risk teams.
+  <br/>
 
-📍 Île-de-France, France · 🎓 M2 AI & Big Data — ESTIAM Paris (2025–2027) · 💼 Open to Data/BI/Risk apprenticeship (2026–2027)
+  <sub>📍 Île-de-France, France &nbsp;·&nbsp; 🎓 M2 AI & Big Data — ESTIAM Paris &nbsp;·&nbsp; 💼 ex-BEAC</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/)
-[![Email](https://img.shields.io/badge/Email-loicmonti318%40gmail.com-3B82F6?style=flat&logo=gmail&logoColor=white)](mailto:loicmonti318@gmail.com)
+  <br/><br/>
 
+  <a href="https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:loicmonti318@gmail.com"><img src="https://img.shields.io/badge/Email-loicmonti318%40gmail.com-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://vloicmonti.dev"><img src="https://img.shields.io/badge/Portfolio-vloicmonti.dev-0D1321?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -31,38 +33,65 @@ Paris, looking for a **Data Analyst / BI / Risk Data apprenticeship for
 
 ## Core Expertise
 
-- **Risk Analytics** — credit scoring, fraud detection, anomaly detection,
-  AML/CFT/KYC compliance
-- **Machine Learning** — Gradient Boosting, LSTM, Isolation Forest,
-  time series forecasting, SMOTE for imbalanced data
-- **Business Intelligence** — Power BI (advanced DAX, Power Query, data
-  modeling), executive dashboards adopted by business units
-- **Data Engineering** — end-to-end ETL pipelines, data cleaning at scale
-  (500k+ records), SQL (MySQL, PostgreSQL)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Risk Analytics**
+Credit scoring, fraud detection, anomaly detection, AML/CFT/KYC compliance
+
+**🤖 Machine Learning**
+Gradient Boosting, LSTM, Isolation Forest, time series forecasting, SMOTE
+
+</td>
+<td width="50%" valign="top">
+
+**📈 Business Intelligence**
+Power BI (advanced DAX, Power Query), executive dashboards
+
+**🔧 Data Engineering**
+End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<table>
+<tr><td><b>Languages</b></td><td>
 
-**Data Analytics & BI**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Machine Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+</td></tr>
+<tr><td><b>Data & BI</b></td><td>
 
-**Data Engineering**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</td></tr>
+<tr><td><b>Machine Learning</b></td><td>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+</td></tr>
+<tr><td><b>Data Engineering</b></td><td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td></tr>
+<tr><td><b>Development</b></td><td>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td></tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -125,14 +154,16 @@ French (native) · English (B2/C1 — technical documentation, international ban
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vloicmonti&show_icons=true&theme=tokyonight&hide_border=true)
-
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=vloicmonti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=60A5FA&icon_color=3B82F6&text_color=94A3B8" alt="GitHub Stats" height="165"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vloicmonti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1321&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" height="165"/></td>
+</tr>
+</table>
 </div>
 
 ## Contact
 
 Let's build something with data.
 
-📧 [loicmonti318@gmail.com](mailto:loicmonti318@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/)
-
+📧 [loicmonti318@gmail.com](mailto:loicmonti318@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vincent-lo%C3%AFc-monti-981641388/) · 🌐 [vloicmonti.dev](https://vloicmonti.dev)
