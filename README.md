@@ -139,6 +139,25 @@ End-to-end ETL pipelines, data cleaning at scale (500k+ records), SQL
 </td></tr>
 </table>
 
+## Engineering Workflow
+
+How a solution actually gets built, end to end — not just the modeling step.
+
+<div align="center">
+  <img src="assets/pipeline.svg" width="100%" alt="Data engineering pipeline: Sources → Ingestion → Transformation → Quality → Analytics → Machine Learning → Application → Insights" />
+</div>
+
+```
+SOURCES            raw operational & financial data
+INGESTION          Azure Data Factory · SQL
+TRANSFORMATION     Databricks · Snowflake · BigQuery · Python
+QUALITY            Python · SQL
+ANALYTICS          SQL · Power BI
+MACHINE LEARNING   Python · Azure ML
+APPLICATION        Streamlit
+INSIGHTS           Power BI
+```
+
 ## FEATURED SYSTEMS
 
 <table>

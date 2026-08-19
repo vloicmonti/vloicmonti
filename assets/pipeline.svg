@@ -1,0 +1,83 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B12"/>
+      <stop offset="100%" stop-color="#0D131D"/>
+    </linearGradient>
+    <pattern id="pGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <style><![CDATA[
+      .p-flow { stroke-dasharray: 4 7; animation: p-flow 2.6s linear infinite; }
+      .p-flow.p-f2 { animation-duration: 3.1s; }
+      .p-flow.p-f3 { animation-duration: 2.2s; }
+      @keyframes p-flow { to { stroke-dashoffset: -110; } }
+      @media (prefers-reduced-motion: reduce) {
+        .p-flow { animation: none !important; }
+      }
+    ]]></style>
+  </defs>
+
+  <rect width="1000" height="150" rx="14" fill="url(#pBg)"/>
+  <rect width="1000" height="150" rx="14" fill="url(#pGrid)"/>
+  <rect x="0.5" y="0.5" width="999" height="149" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+
+  <!-- spine + flow -->
+  <line x1="55" y1="58" x2="945" y2="58" stroke="#8B95A7" stroke-opacity="0.22" stroke-width="1.1"/>
+  <line class="p-flow" x1="182" y1="58" x2="309" y2="58" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.3"/>
+  <line class="p-flow p-f2" x1="564" y1="58" x2="691" y2="58" stroke="#3B82F6" stroke-opacity="0.85" stroke-width="1.3"/>
+  <line class="p-flow p-f3" x1="818" y1="58" x2="945" y2="58" stroke="#22D3EE" stroke-opacity="0.9" stroke-width="1.3"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="9.8" font-weight="600" letter-spacing="0.6" text-anchor="middle">
+
+    <g transform="translate(55,58)">
+      <circle r="15" fill="#0D131D" stroke="#8B95A7" stroke-opacity="0.45" stroke-width="1.2"/>
+      <circle r="2.6" fill="#C3CBDA"/>
+    </g>
+    <text x="55" y="100" fill="#C3CBDA">SOURCES</text>
+
+    <g transform="translate(182,58)">
+      <circle r="15" fill="#0D131D" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="1.2"/>
+      <circle r="2.6" fill="#9DC0FA"/>
+    </g>
+    <text x="182" y="100" fill="#9DC0FA">INGESTION</text>
+
+    <g transform="translate(309,58)">
+      <circle r="15" fill="#0D131D" stroke="#60A5FA" stroke-opacity="0.5" stroke-width="1.2"/>
+      <circle r="2.6" fill="#9DC0FA"/>
+    </g>
+    <text x="309" y="100" fill="#9DC0FA">TRANSFORMATION</text>
+
+    <g transform="translate(436,58)">
+      <circle r="15" fill="#0D131D" stroke="#3B82F6" stroke-opacity="0.5" stroke-width="1.2"/>
+      <circle r="2.6" fill="#7FB0FF"/>
+    </g>
+    <text x="436" y="100" fill="#7FB0FF">QUALITY</text>
+
+    <g transform="translate(564,58)">
+      <circle r="15" fill="#0D131D" stroke="#3B82F6" stroke-opacity="0.55" stroke-width="1.2"/>
+      <circle r="2.6" fill="#7FB0FF"/>
+    </g>
+    <text x="564" y="100" fill="#7FB0FF">ANALYTICS</text>
+
+    <g transform="translate(691,58)">
+      <circle r="15" fill="#0D131D" stroke="#22D3EE" stroke-opacity="0.55" stroke-width="1.2"/>
+      <circle r="2.6" fill="#67E8F9"/>
+    </g>
+    <text x="691" y="100" fill="#67E8F9">MACHINE LEARNING</text>
+
+    <g transform="translate(818,58)">
+      <circle r="15" fill="#0D131D" stroke="#22D3EE" stroke-opacity="0.6" stroke-width="1.2"/>
+      <circle r="2.6" fill="#67E8F9"/>
+    </g>
+    <text x="818" y="100" fill="#67E8F9">APPLICATION</text>
+
+    <g transform="translate(945,58)">
+      <circle r="15" fill="#0D131D" stroke="#22D3EE" stroke-opacity="0.7" stroke-width="1.2"/>
+      <circle r="2.6" fill="#A5F3FC"/>
+    </g>
+    <text x="945" y="100" fill="#A5F3FC">INSIGHTS</text>
+  </g>
+
+  <text x="500" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="2.5" fill="#5B6472">END-TO-END DATA VALUE CHAIN</text>
+</svg>
