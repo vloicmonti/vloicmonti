@@ -297,14 +297,6 @@ Predicts audience drop-off from video engagement logs — built at the ESTIAM P�
 
 French (native) · English (B2/C1 — technical documentation, international banking teams)
 
-## GitHub Activity
-
-<div align="center">
-  <img src="assets/github-stats.svg" alt="GitHub Stats" height="165"/>
-</div>
-
-<sub>Top Languages card will appear here once the repos contain real code — currently README-only.</sub>
-
 ---
 
 <div align="center">
